@@ -182,7 +182,7 @@ In this section, you'll enable B.Simon to use Azure single sign-on by granting a
 
 	a. Enter the Display name Ex: *AzureAD SSO*.
 
-	b. Select **From URL** option for the **ADGS Federation Metadata**.
+	b. Select **From URL** option for the **ADFS Federation Metadata**.
 
 	c. In the **Federation Metadata URl** textbox, paste the **App Federation Metadata Url** value, which you have copied from the Azure portal.
 
